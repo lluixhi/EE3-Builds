@@ -12,7 +12,7 @@ Forge 9.11.0.900
 Commit # 1150
 SHA: 6e2676e0c978c579f7e20d02b599b9f839e9276d
 
-Recipe work, and some fancy new EMC logos Posted Image
+Recipe work, and some fancy new EMC logos
 
 ####ee3-pre2-universal-2.jar
 
@@ -28,6 +28,6 @@ SHA: 2babc3a52a8ac238db53cedc7547e31d4c6dd6b1
 
 Still highly unstable.
 
-Since I last posted?  Massive localization changes (I'm sure Wliu filled everyone in), and more work on DynEMC.  EE3 was just made compilable in 1.6.4 ~today.
+Since I last posted?  Massive localization changes, and more work on DynEMC.  EE3 was just made compilable in 1.6.4 ~today.
 
-The only "visible" changes were a new Alchemy Table (yay!) which has not been coded in yet, and some name changes (localization stuff).
+The only "visible" changes were a new Alchemy Table which has not been coded in yet, and some name changes.
