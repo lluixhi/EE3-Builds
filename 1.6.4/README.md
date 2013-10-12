@@ -20,6 +20,8 @@ Forge 9.11.0.886
 Commit #1146
 SHA: a2e0c961c59a060e0bd9a3b3f520538d5ca378fd
 
+Makes build 1 useable, some "Weighted Graph" work. (DynEMC)
+
 ####ee3-pre2-universal-1.jar
 
 Forge 9.11.0.884
