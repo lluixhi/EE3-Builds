@@ -1,3 +1,11 @@
+####ee3-pre2-universal-6.jar
+
+Forge 9.11.1.933
+Commit # 1156
+SHA: 8ffcb7c1c947197d2b3a8ccddf01620375055a9a
+
+Cleaned up the Recipe Registry.
+
 ####ee3-pre2-universal-5.jar
 
 Forge 9.11.1.933
