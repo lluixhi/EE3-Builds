@@ -1,6 +1,14 @@
+####ee3-pre2-universal-5.jar
+
+Forge 9.11.1.933
+Commit # 1155
+SHA: 1ca311f8d0349f97c20ad8d371595531b26626f0
+
+More reworking of DynEMC.
+
 ####ee3-pre2-universal-4.jar
 
-FOrge 9.11.1.923
+Forge 9.11.1.923
 Commit # 1154
 SHA: 0639d4a917181eaab896aeacd3b4d4c6bbbbb7e5
 
