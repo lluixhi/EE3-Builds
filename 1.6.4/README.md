@@ -1,3 +1,11 @@
+####ee3-pre2-universal-7.jar
+
+Forge 9.11.1.933
+Commit # 1158
+SHA: 87ad92479d1d4b03bc5f42b2a3d1c20f02f50f4c
+
+Added a fancy EMC tooltip, and added functions which return a list of the stacks which range between two EMC values.
+
 ####ee3-pre2-universal-6.jar
 
 Forge 9.11.1.933
