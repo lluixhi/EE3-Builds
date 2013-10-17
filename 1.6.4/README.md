@@ -1,3 +1,11 @@
+####ee3-pre2-universal-8.jar
+
+Forge 9.11.1.933
+Commit # 1159
+SHA: fdf93588338a59d1bb069f814ae09b4a6b944f85
+
+Tweaks to Commit # 1158 for better code.
+
 ####ee3-pre2-universal-7.jar
 
 Forge 9.11.1.933
