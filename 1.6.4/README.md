@@ -1,8 +1,16 @@
+####ee3-pre2-universal-9.jar
+
+Forge 9.11.1.933
+Commit # 1180
+SHA: 7b3a8f3f09461c4e8ad0e7cd096df1a3b1eb9262
+
+More items have base EMC values, and things made with them now have EMC values.  (Much still to do on this.)
+
 ####ee3-pre2-universal-8.jar
 
 Forge 9.11.1.933
-Commit # 1178
-SHA: 346c4f16d8d608702045c01f198cfee616ee03d4
+Commit # 1179
+SHA: 576a90e50d9b0ab9d5d395766aea1096b12bff95
 
 Tweaks to Commit # 1158 for better code. Duplicate code fix from ganymedes01, and translations from Vexatos, Pulsior, and Xetosphere. Splitting Item, Block, General, and Transmutation into separate configurations. Made some methods general for easier adding of additional classes.
 (DynEMC is done! w00t!) Renaming classes, removed unused FuelHandler class.
