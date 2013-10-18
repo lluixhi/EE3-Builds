@@ -1,11 +1,11 @@
 ####ee3-pre2-universal-8.jar
 
 Forge 9.11.1.933
-Commit # 1177
-SHA: 8896698119a9e60deea053a27e3385e430175c52
+Commit # 1178
+SHA: 346c4f16d8d608702045c01f198cfee616ee03d4
 
 Tweaks to Commit # 1158 for better code. Duplicate code fix from ganymedes01, and translations from Vexatos, Pulsior, and Xetosphere. Splitting Item, Block, General, and Transmutation into separate configurations. Made some methods general for easier adding of additional classes.
-(DynEMC is done! w00t!)
+(DynEMC is done! w00t!) Renaming classes.
 
 ####ee3-pre2-universal-7.jar
 
