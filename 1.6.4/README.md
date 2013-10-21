@@ -1,10 +1,10 @@
 ####ee3-pre2-universal-10.jar
 
 Forge 9.11.1.935
-Commit # 1195
-SHA: 0335767923513e8265b3f4a95076e072cfed39dc
+Commit # 1196
+SHA: 280f4b99ad156adf83bd7c8653e534b8084c2a5f
 
-Changing how EMC Values work.
+Changing how EMC Values work. More EMC work.
 
 ####ee3-pre2-universal-9.jar
 
