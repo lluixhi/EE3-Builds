@@ -1,3 +1,11 @@
+####ee3-pre2-universal-11.jar
+
+Forge 9.11.1.935
+Commit # 1197
+SHA: fc5da894da6cdc5d67984db24541583698b6c941
+
+More boring EMC stuff.
+
 ####ee3-pre2-universal-10.jar
 
 Forge 9.11.1.935
