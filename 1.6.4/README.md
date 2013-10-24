@@ -1,3 +1,11 @@
+####ee3-pre2-universal-12.jar
+
+Forge 9.11.1.935
+Commit # 1198
+SHA: 98370ca73eabdd2ba8c0c24900f71321fd303f66
+
+Work on intelligently checking and retrieving EMC Values.
+
 ####ee3-pre2-universal-11.jar
 
 Forge 9.11.1.935
