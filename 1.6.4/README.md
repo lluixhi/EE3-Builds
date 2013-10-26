@@ -1,3 +1,11 @@
+####ee3-pre2-universal-13.jar
+
+Forge 9.11.1.935
+Commit # 1200
+SHA: 6f8faf09dbe4c43fcf71437fc5d61b9461e0cf3f
+
+hasEMC and getEMC functions, and some work on the tooltip handler.
+
 ####ee3-pre2-universal-12.jar
 
 Forge 9.11.1.935
