@@ -1,3 +1,11 @@
+####ee3-pre2-universal-14.jar
+
+Forge 9.11.1.937
+Commit # 1206
+SHA:715fe9eb3ac1890695e3f1203179b95265536bd7 
+
+Pahimar's on a roll today! More EMC Stuff, and more values.
+
 ####ee3-pre2-universal-13.jar
 
 Forge 9.11.1.935
