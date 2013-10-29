@@ -1,5 +1,14 @@
 ####ee3-pre2-universal-14.jar
 
+Forge 9.11.1.938
+Commit # 1211
+SHA: 9fa390fcaef95ca3af6ea3eb173859bb7d9d8a35
+
+Added more default EMC Values.
+Started work on IMC (Added a Handler for addons, and added some defaults.)
+
+####ee3-pre2-universal-14.jar
+
 Forge 9.11.1.937
 Commit # 1206
 SHA:715fe9eb3ac1890695e3f1203179b95265536bd7 
