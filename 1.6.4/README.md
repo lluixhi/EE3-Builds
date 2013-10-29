@@ -1,3 +1,11 @@
+####ee3-pre2-universal-16.jar
+
+Forge 9.11.1.938
+Commit # 1212
+SHA: c580d70954abb49b65a06ad481cec86629ca1ce9
+
+Beginning of work on giving IMC/EMC values automagically.
+
 ####ee3-pre2-universal-15.jar
 
 Forge 9.11.1.938
