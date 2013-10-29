@@ -1,3 +1,11 @@
+####ee3-pre2-universal-17.jar
+
+Forge 9.11.1.938
+Commit # 1214
+SHA: 2158604787bf4a0000a2f07307e76ed12537edc4
+
+Split NBTHelpers into a separate package. Clean up some classes.
+
 ####ee3-pre2-universal-16.jar
 
 Forge 9.11.1.938
