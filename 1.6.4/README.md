@@ -5,6 +5,7 @@ Commit # 1214
 SHA: 2158604787bf4a0000a2f07307e76ed12537edc4
 
 Split NBTHelpers into a separate package. Clean up some classes.
+Add some API related InterModComms work.
 
 ####ee3-pre2-universal-16.jar
 
