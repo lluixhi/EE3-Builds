@@ -1,3 +1,12 @@
+####ee3-pre2-universal-18.jar
+
+Forge 9.11.1.942
+Commit # 1216
+SHA: 821545049c6d62da7b6d5e93bd518850005762e0
+
+Work on a better "encodeRecipe" method, so people can send a map of recipeoutputs to a list of recipeinputs.
+(Reduces crosstalk between mods.)
+
 ####ee3-pre2-universal-17.jar
 
 Forge 9.11.1.938
