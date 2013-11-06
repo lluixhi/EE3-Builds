@@ -1,6 +1,14 @@
 ####ee3-pre2-universal-18.jar
 
 Forge 9.11.1.942
+Commit # 1217
+SHA: 16f81287b54e33fac676d6ee54d8b8f9b93e5ec3
+
+More Encoded NBTHelper work.
+
+####ee3-pre2-universal-18.jar
+
+Forge 9.11.1.942
 Commit # 1216
 SHA: 821545049c6d62da7b6d5e93bd518850005762e0
 
