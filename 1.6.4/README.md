@@ -1,10 +1,10 @@
-####ee3-pre2-universal-18.jar
+####ee3-pre2-universal-19.jar
 
 Forge 9.11.1.942
-Commit # 1217
-SHA: 16f81287b54e33fac676d6ee54d8b8f9b93e5ec3
+Commit # 1218
+SHA: f0505670377786ad6f702e7f10cf13f58b2f8e99
 
-More Encoded NBTHelper work.
+More Encoded NBTHelper work. Ninja update: More of the same.
 
 ####ee3-pre2-universal-18.jar
 
