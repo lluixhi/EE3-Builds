@@ -1,3 +1,11 @@
+####ee3-pre2-universal-20.jar
+
+Forge 9.11.1.944
+Commit # 1221
+SHA: 7f3d09494914128b643eafdffd472aa199ff25da
+
+Support for creating Custom Wrapped Stacks with encoded String parameters.
+
 ####ee3-pre2-universal-19.jar
 
 Forge 9.11.1.942
