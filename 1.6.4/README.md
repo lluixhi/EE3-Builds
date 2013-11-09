@@ -1,3 +1,11 @@
+####ee3-pre2-universal-21.jar
+
+Forge 9.11.1.944
+Commit # 1223
+SHA: 3e72d3754f14fd2ab9226203260a049f225381d6
+
+Some work on decoding stack value maps.
+
 ####ee3-pre2-universal-20.jar
 
 Forge 9.11.1.944
