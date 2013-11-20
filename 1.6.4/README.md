@@ -1,3 +1,11 @@
+####ee3-pre2-universal-23.jar
+
+Forge 9.11.1.953
+Commit # 1234
+SHA: 6f16e3296b94a68bc8ae047c28f3c5cbfb8eb4ce
+
+Beginnings of an API, and some work on how recipes are initialized, some FluidStack and Custom Wrapped Stack support, and some changes to the IMC Handler.
+
 ####ee3-pre2-universal-22.jar
 
 Forge 9.11.1.953
