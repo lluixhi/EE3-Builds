@@ -1,10 +1,10 @@
 ####ee3-pre2-universal-22.jar
 
 Forge 9.11.1.953
-Commit # 1228
-SHA: 549f5031e87e292c03c718dd7b22c4e32f2f3c19
+Commit # 1231
+SHA: 02eead367210f7cfaabc8382f447c4cae19e0459
 
-Same as below, but on the new forge.
+Big cleanup, with some stuff never coming back, and a recipe value assignment bugfix (which applies to custom intermod recipes).
 
 ####ee3-pre2-universal-21.jar
 
