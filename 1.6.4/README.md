@@ -1,3 +1,11 @@
+####ee3-pre2-universal-26.jar
+
+Forge 9.11.1.964
+Commit # 1244
+SHA: 498c29db31fa771a81c8412156e125bedabf7e49
+
+A lot of blood, sweat, toil, and tears went into making this build..
+
 ####ee3-pre2-universal-24.jar
 
 Forge 9.11.1.953
