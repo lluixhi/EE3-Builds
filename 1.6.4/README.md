@@ -1,3 +1,12 @@
+####ee3-pre2a-universal-27.jar
+
+Forge 9.11.1.964
+Commit # 1247
+SHA: a2e406bf7e08aefccb677fc3de77530d83eea4ae
+
+From the (not very descriptive) changelog last build (check Wliu's)
+Added duplicate and null checking when assigning EMC values.
+
 ####ee3-pre2a-universal-26.jar
 
 Forge 9.11.1.964
