@@ -1,3 +1,12 @@
+####ee3-pre2a-28.jar
+
+Forge 9.11.1.964
+~Commit # 1253
+~SHA: fd05e3b8fe43d9dfe0d9e9b25922e47259b873fa
+
+This is from AbrarSyed's EE3 repository, already on gradle. It changes the versioning system.
+Includes pahi's new translations from the pull requests.
+
 ####ee3-pre2a-universal-27.jar
 
 Forge 9.11.1.964
