@@ -1,3 +1,12 @@
+####EquivalentExchange3-pre2a.29.jar
+
+Forge 9.11.1.964
+Commit # 1260
+SHA: 1a25990b6f41f0dbc5ca36205440e2b578fa290b
+
+Though the naming scheme changed, I'm keeping "pre2a."
+Imports Abrar's stuff from his repo, and some work on EMC Values.
+
 ####ee3-pre2a-28.jar
 
 Forge 9.11.1.964
