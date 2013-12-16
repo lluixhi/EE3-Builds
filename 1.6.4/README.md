@@ -1,3 +1,11 @@
+####EquivalentExchange3-pre2a.30.jar
+
+Forge 9.11.1.964
+Commit # 1273
+SHA: 5863efcee644e343cdf35c5bae0d0ddebcf82909
+
+Changed code from CRLF to LF (Windows to Linux), fixed recipemappings for IMC calls, more work on common ore recipes/emc.
+
 ####EquivalentExchange3-pre2a.29.jar
 
 Forge 9.11.1.964
