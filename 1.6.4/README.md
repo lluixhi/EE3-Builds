@@ -1,3 +1,11 @@
+####EquivalentExchange3-pre2a.31.jar
+
+Forge 9.11.1.964
+Commit # 1278
+SHA: 19569e490fabec1823c0998dcc78657bab80ea04
+
+Some work on smart RecipesVanilla, Work on IC2 API, Restructured package, fixed NullPointerException crash :D
+
 ####EquivalentExchange3-pre2a.30.jar
 
 Forge 9.11.1.964
