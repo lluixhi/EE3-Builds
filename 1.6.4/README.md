@@ -1,7 +1,7 @@
 ####EquivalentExchange3-pre2a.32.jar
 
-Forge 9.11.1.964 
-Commit # 1284 
+Forge 9.11.1.964
+Commit # 1284
 SHA: d2ac6dbf1bef62423b0a27938fc0f4cb032427ce
 
 Work on Equivalency Stack.
