@@ -1,3 +1,11 @@
+####EquivalentExchange3-pre2a.34.jar
+
+Forge 9.11.1.964
+Commit # 1299
+SHA: 6dee38c4e1b664ff81123d94b905d26907025565
+
+Stop Containers from affecting EmcValue assignment, Cleaning, Forcing EmcValue to have 4 decimals. Work on the CalcinationManager!
+
 ####EquivalentExchange3-pre2a.32.jar
 
 Forge 9.11.1.964
