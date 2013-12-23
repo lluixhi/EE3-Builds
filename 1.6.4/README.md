@@ -1,3 +1,11 @@
+####EquivalentExchange3-pre2a.35.jar
+
+Forge 9.11.1.964
+Commit # 1301
+SHA: b69954c4c59a39d7ebab876a8956d7dc9c8f014e
+
+More Calcination Manager stuff.
+
 ####EquivalentExchange3-pre2a.34.jar
 
 Forge 9.11.1.964
