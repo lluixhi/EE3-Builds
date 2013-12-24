@@ -1,3 +1,11 @@
+####EquivalentExchange3-pre2a.36.jar
+
+Forge 9.11.1.964
+Commit # 1302
+SHA: 60423c1421f975457b292424d3f8397fbac108ef
+
+Calcinator now produces dust, and Divining Rods are back.
+
 ####EquivalentExchange3-pre2a.35.jar
 
 Forge 9.11.1.964
