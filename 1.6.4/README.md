@@ -1,4 +1,12 @@
-####EquivalentExchange3-pre2a.36.jar
+####EquivalentExchange3-pre2a.38.jar
+
+Forge 9.11.1.964
+Commit # 1305
+SHA: 1bcfc551beea861496c72b706cfe24f98d656ffb
+
+Adds the textures from the aforementioned items. (rolls eyes)
+
+####EquivalentExchange3-pre2a.37.jar
 
 Forge 9.11.1.964
 Commit # 1303
