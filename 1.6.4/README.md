@@ -1,3 +1,11 @@
+####EquivalentExchange3-pre2a.39.jar
+
+Forge 9.11.1.964
+Commit # 1306
+SHA: 6daa78de20ef6913dfb3b1c01b7f97d3c2fe6cd4
+
+Refactoring in preparation for release! :D
+
 ####EquivalentExchange3-pre2a.38.jar
 
 Forge 9.11.1.964
