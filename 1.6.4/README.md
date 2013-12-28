@@ -1,3 +1,11 @@
+####EquivalentExchange3-pre2a.41.jar
+
+Forge 9.11.1.964
+Commit # 1311
+SHA: 57e22d4d7191a64284ea4878cef39d1dfd2666b8
+
+Fix a FuelHandler derp.
+
 ####EquivalentExchange3-pre2a.40.jar
 
 Forge 9.11.1.964
