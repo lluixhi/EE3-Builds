@@ -1,3 +1,14 @@
+####EquivalentExchange3-pre2a.40.jar
+
+Forge 9.11.1.964
+Commit # 1310
+SHA: 28b1a5edfc908b732c82e31a7314c4e8767d0f6c
+
+Implement Alchemical Coal, Aeternalis Fuel, and Mobius Fuel. (Still not craftable).
+Add Alchemical Coal, Aeternalis Fuel and Mobius Fuel Blocks.
+Make Chalk, the Divining Rod, and the Minium Stone Craftable.
+Rename a bunch of items.
+
 ####EquivalentExchange3-pre2a.39.jar
 
 Forge 9.11.1.964
