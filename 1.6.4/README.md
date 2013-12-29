@@ -1,3 +1,13 @@
+####EquivalentExchange3-1.6.4-pre2a.41.jar
+
+Forge 9.11.1.964
+Commit # 1326
+SHA: 4066e6f6b0ee32c9b99fe1b131d21e5bd12b5945
+
+Fixes a NEI and EE3 Null Pointer Exception,
+Improvements to how values are added to the EMCRegistry (Duplicate Checks) No more BetterStorage bug!
+Fix the EMCValue for chalk, and add a Chalk Block.
+
 ####EquivalentExchange3-pre2a.41.jar
 
 Forge 9.11.1.964
