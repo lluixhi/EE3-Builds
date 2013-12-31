@@ -1,4 +1,21 @@
-####EquivalentExchange3-1.6.4-pre2a.41.jar
+####EquivalentExchange3-1.6.4-pre2a.43.jar
+
+Forge 9.11.1.964
+Commit # 1366
+SHA: 4abd5b121a09a8c7b9219b7235a7e7a7c074cc29
+
+Work on the Calcinator GUI.
+Fire particle effects for calcinator.
+Cleaning.
+Finishing up Calcinator.
+Work on transmutation squares.
+Stress testing for NEI bug. (fixed!)
+Localization fixes.
+Moving EMCRegistry to a separate thread (faster!)
+Fixing bugs.
+Fixed Chalk Block Recipe.
+
+####EquivalentExchange3-1.6.4-pre2a.42.jar
 
 Forge 9.11.1.964
 Commit # 1326
