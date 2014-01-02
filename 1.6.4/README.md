@@ -1,3 +1,15 @@
+####EquivalentExchange3-1.6.4-pre2a.44.jar
+
+Forge 9.11.1.964
+Commit # 1375
+SHA: 8ed0f1ecddc7cc0a6d78e6d19acead2622b3d923
+
+Brings back transmutation.
+More work on Alchemy Squares (renamed from Transumutation squares)
+Recipe for the Calcinator is in, fixed divining rod recipe.
+Added Alchemy Square GUI.
+Code optimizing/cleaning.
+
 ####EquivalentExchange3-1.6.4-pre2a.43.jar
 
 Forge 9.11.1.964
