@@ -1,3 +1,16 @@
+####EquivalentExchange3-1.6.4-pre2a.45.jar
+
+Forge 9.11.1.964
+Commit # 1389
+SHA: e3e6d533e29c96c6e5bbc4a68883e72220ee5e56
+
+Some Translation updates.
+More Code Optimization.
+More EMC Values..
+Fixing the Tooltip being "debug," now it activates on holding shift.
+Added the Research Station.
+Don't need to shift click to put a glass bell on an aludel base anymore.
+
 ####EquivalentExchange3-1.6.4-pre2a.44.jar
 
 Forge 9.11.1.964
