@@ -1,3 +1,14 @@
+####EquivalentExchange3-1.6.4-pre2a.46.jar
+
+Forge 9.11.1.964
+Commit # 1391
+SHA: 2ad08cbdc521dbf8d7d6f6d0a362a497968166c8
+
+Add Alchemical Chest, Alchemical Fuel, Aludel, Calcinator, Chalk Block, Glass Bell, and Research Station to Creative Tab individually.
+Add Infused Cloth, Infused Ore, Infused Stone, and Infused Wood. (No pictures yet, and very work in progress).
+Rename Iridescent Dust to Shimmering Dust.
+Add some Aludel Recipe Framework (Uses Dust).
+
 ####EquivalentExchange3-1.6.4-pre2a.45.jar
 
 Forge 9.11.1.964
