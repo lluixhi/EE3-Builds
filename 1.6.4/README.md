@@ -1,3 +1,14 @@
+####EquivalentExchange3-1.6.4-pre2a.47.jar
+
+Forge 9.11.1.964
+Commit # 1392
+SHA: 081730ad4bb949b5fbae44090605636e385b8abd
+
+Remove Infused Ore and Infused Stone.
+Got rid of Shimmering/Iridescent Dust.
+Added Infused Planks.
+Made Infused Planks, Infused Wood, and Infused Cloth infusable with Verdant, Azure or Minium Dust in the Aludel.
+
 ####EquivalentExchange3-1.6.4-pre2a.46.jar
 
 Forge 9.11.1.964
