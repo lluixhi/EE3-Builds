@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.6.4-pre2a.48.jar
+
+Forge 9.11.1.964
+Commit # 1398
+SHA: 5a580e9028f833a5aec327dde60adeb4b4674e4a
+
+Different-sized Alchemical Chests (Small, Medium, Large). (With Textures!)
+Made the Alchemical Bag bigger.
+
 ####EquivalentExchange3-1.6.4-pre2a.47.jar
 
 Forge 9.11.1.964
