@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.6.4-pre2a.49.jar
+
+Forge 9.11.1.964
+Commit # 1400
+SHA: 146dc0a1de30c83faacca4a7a95c217bd345c5ed
+
+Condensed the Alchemical Chest code with the Magic of Classes.
+Added alchemical chest recipes, added recipes using infused planks and infused wood.
+
 ####EquivalentExchange3-1.6.4-pre2a.48.jar
 
 Forge 9.11.1.964
