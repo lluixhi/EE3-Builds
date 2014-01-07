@@ -1,3 +1,14 @@
+####EquivalentExchange3-1.6.4-pre2a.50.jar
+
+Forge 9.11.1.964
+Commit # 1405
+SHA: 46057f06bbb7462b2f4c69576c685fcbc43cc64b
+
+Changes priority of the tooltip popping up.
+The great localization purge of 2014.
+Remove debug from the Alchemical Chest GUI (It's done!)
+Minium Shards no longer drop from mobs.
+
 ####EquivalentExchange3-1.6.4-pre2a.49.jar
 
 Forge 9.11.1.964
