@@ -1,3 +1,13 @@
+####EquivalentExchange3-1.6.4-pre2a.51.jar
+
+Forge 9.11.1.964
+Commit # 1409
+SHA: a328988b28f6430c7f34eabd698060d4214c6da7
+
+Aludel Recipes for Mobius, Aeternalis, and Alchemical Coal. 
+Aludel recipes for Infused Cloth, Wood, and Planks.
+Network work for the calcinator.
+
 ####EquivalentExchange3-1.6.4-pre2a.50.jar
 
 Forge 9.11.1.964
