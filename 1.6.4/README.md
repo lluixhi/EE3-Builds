@@ -1,6 +1,16 @@
 ####EquivalentExchange3-1.6.4-pre2a.51.jar
 
 Forge 9.11.1.964
+Commit # 1412
+SHA: 07bd30b25493cf2f523f6cf4c12562b728ab93e6
+
+More Calcinator Network Work.
+Adding the "active" Calcinator texture.
+Finishing up the Calcinator (basically done!)
+
+####EquivalentExchange3-1.6.4-pre2a.51.jar
+
+Forge 9.11.1.964
 Commit # 1409
 SHA: a328988b28f6430c7f34eabd698060d4214c6da7
 
