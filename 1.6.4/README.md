@@ -1,4 +1,16 @@
-####EquivalentExchange3-1.6.4-pre2a.51.jar
+####EquivalentExchange3-1.6.4-pre2a.53.jar
+
+Forge 9.11.1.964
+Commit # 1419
+SHA: 58bd0a1dca62368dce4e65c51c57a2b9447eb28e
+
+Finishing the Calcinator.
+Light Level Update (ganymedes 01)
+Fix the Calcinator's gui name.
+Fix the naming of the Fuel Blocks.
+Some cleaning. (Glass Bell and Infused Stuff are officially done, along with the Calcinator)
+
+####EquivalentExchange3-1.6.4-pre2a.52.jar
 
 Forge 9.11.1.964
 Commit # 1412
