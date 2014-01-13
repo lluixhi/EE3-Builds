@@ -1,3 +1,13 @@
+####EquivalentExchange3-1.6.4-pre2a.54.jar
+
+Forge 9.11.1.964
+Commit # 1425
+SHA: 20b23ee923c9b9aa45a1e2e40100d9df33930508
+
+Fixed a dust colour stack bug and a siding error.
+Changed network communication for dust updates.
+More work on getting dusts to render properly in the calcinator.
+
 ####EquivalentExchange3-1.6.4-pre2a.53.jar
 
 Forge 9.11.1.964
