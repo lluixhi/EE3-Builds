@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.6.4-pre2a.55.jar
+
+Forge 9.11.1.964
+Commit # 1247
+SHA: baf7d501a4fdbe58085dfe4c41ac40bcecd977a
+
+Finally fix the colour of dust once and for all in the Calcinator.
+Fix a weird bug in the calcinator.
+
 ####EquivalentExchange3-1.6.4-pre2a.54.jar
 
 Forge 9.11.1.964
