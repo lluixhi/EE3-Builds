@@ -1,3 +1,11 @@
+####EquivalentExchange3-1.6.4-pre2a.56.jar
+
+Forge 9.11.1.964
+Commit # 1428
+SHA: eed4a7bdaa584055234238f3771c472804e0c2d6
+
+Work on the Aludel. (Might work now)
+
 ####EquivalentExchange3-1.6.4-pre2a.55.jar
 
 Forge 9.11.1.964
