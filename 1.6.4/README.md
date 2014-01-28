@@ -1,6 +1,18 @@
 ####EquivalentExchange3-1.6.4-pre2a.56.jar
 
 Forge 9.11.1.964
+Commit # 1439
+SHA: 490c9342ba892e7d32a3e1b7df33882bc4019a17
+
+Include Pull Request Bug Fixes from ganymedes01 and Dynious.
+* Fix OreStack EMC Values not being looked up properly
+* Finished a method for the Aludel
+* Fix NBT crash
+* Added a simple way to add EMC's through IMC.
+
+####EquivalentExchange3-1.6.4-pre2a.56.jar
+
+Forge 9.11.1.964
 Commit # 1428
 SHA: eed4a7bdaa584055234238f3771c472804e0c2d6
 
