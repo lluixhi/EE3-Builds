@@ -1,4 +1,16 @@
-####EquivalentExchange3-1.6.4-pre2a.56.jar
+####EquivalentExchange3-1.6.4-pre2a.58.jar
+
+Forge 9.11.1.964
+Commit # 1458
+SHA: a3b0758b9f58ce8441cb0f1e67d60d2b0a2168a6
+
+Tidied up logging (Thanks SpartaMercenary)
+Finish the Aludel (Some fixes thanks to Dynious)
+Fix how Glass Bell renders items.
+Infused logs are rotatable.
+Alchemical Bag subtypes (No working inventories yet!)
+
+####EquivalentExchange3-1.6.4-pre2a.57.jar
 
 Forge 9.11.1.964
 Commit # 1439
