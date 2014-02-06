@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.6.4-pre2a.59.jar
+
+Forge 9.11.1.964
+Commit # 1462
+SHA: 8f32e2380da77923fe674afad92d51a174909ed7
+
+Fixes Aludel working with no glass bell.
+Fixes missing textures in linux.
+
 ####EquivalentExchange3-1.6.4-pre2a.58.jar
 
 Forge 9.11.1.964
