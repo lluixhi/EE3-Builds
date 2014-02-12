@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.6.4-0.1.0.1.jar
+
+Forge 9.11.1.964
+Commit # 1473
+SHA: e6c61fbf42cfd873c2e56e130847b0b37b619867
+
+Fixes Alchemical bags and chests (They work now!)
+Fixes an annoying calcinator bug where the item was destroyed with something in the output slot.
+
 ####EquivalentExchange3-1.6.4-pre2a.59.jar
 
 Forge 9.11.1.964
