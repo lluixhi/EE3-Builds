@@ -1,3 +1,14 @@
+####EquivalentExchange3-1.6.4-0.1.0.2.jar
+
+Forge 9.11.1.964
+Commit # 1484
+SHA: de4efefebb8c34a0fb4f6d5eb001d93418eb212e
+
+Calcinator now sucks in items from the top, a la Thaumcraft.
+Better tooltip.
+More ISidedInventory Support.
+Better handling of null input in RecipeMapping.
+
 ####EquivalentExchange3-1.6.4-0.1.0.1.jar
 
 Forge 9.11.1.964
