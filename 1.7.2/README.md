@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.7.2-0.2.0.2.jar
+
+Forge 10.12.0.1057
+Commit # 1527
+SHA: 664387f0637838e6e982471634b0b34b64705471
+
+Bringing Alchemical Chests and the machines into the port -- still not working correctly.
+
+
 ####EquivalentExchange3-1.7.2-0.2.0.1.jar
 
 Forge 10.12.0.1057
