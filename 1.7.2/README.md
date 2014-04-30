@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.7.2-0.2.0.3.jar
+
+Forge 10.12.0.1063
+Commit # 1529
+SHA: 5794037f515a78465bb458fd5531883bcf2f7030
+
+"Gettin ma groove on"
+The recreation of many registries (which are still stubs), and other good stuff like the EquivalencyStack.
+
 ####EquivalentExchange3-1.7.2-0.2.0.2.jar
 
 Forge 10.12.0.1057
