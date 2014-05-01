@@ -1,6 +1,25 @@
+####EquivalentExchange3-1.7.2-0.2.0.5.jar
+
+Forge 10.12.1.1063
+Commit # 1534
+SHA: 26d3a5dd1192308db2ed6ae32c285a6106cb54e8
+
+Re-implemented Alchemical Bags and put the Fuel Handler back in.
+Fixes chest-lids.
+
+####EquivalentExchange3-1.7.2-0.2.0.4.jar
+
+Forge 10.12.1.1063
+Commit # 1531
+SHA: 336262175094ad0067dbf353adb95b4a2f5beb1d
+
+Simplified the initialization of blocks, removed infused stuff.
+Fixed some of the glass bell.
+Removed remains of the Research Station.
+
 ####EquivalentExchange3-1.7.2-0.2.0.3.jar
 
-Forge 10.12.0.1063
+Forge 10.12.1.1063
 Commit # 1529
 SHA: 5794037f515a78465bb458fd5531883bcf2f7030
 
