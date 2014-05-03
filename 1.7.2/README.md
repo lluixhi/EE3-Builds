@@ -1,3 +1,11 @@
+####EquivalentExchange3-1.7.2-0.2.0.6.jar
+
+Forge 10.12.1.1065
+Commit # 1535
+SHA: 8ee4fa01472d1f15213e87789196d9ed539724b3
+
+Starter work on keybindings and config files.
+
 ####EquivalentExchange3-1.7.2-0.2.0.5.jar
 
 Forge 10.12.1.1063
