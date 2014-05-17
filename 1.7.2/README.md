@@ -1,3 +1,13 @@
+####EquivalentExchange3-1.7.2-0.2.0.7.jar
+
+Forge 10.12.1.1082
+Commit # 1539
+SHA: a2a82d3d361ad34b4651d569ff4949ceb329df35
+
+Just buildscript and mcmod.info changes.
+XCF files are finally not included (again).
+The logo should be showing again :D
+
 ####EquivalentExchange3-1.7.2-0.2.0.6.jar
 
 Forge 10.12.1.1065
