@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.6.4-0.1.0.6.jar
+
+Forge 9.11.1.964
+Commit # 1521
+SHA: 290c4d5b96a8ae946457646a9e2077fe8720115f
+
+Cleaning up 1.6.4 EE3 stuff now that it's gone. :/
+Removing XCF's from the build (slightly smaller!)
+
 ####EquivalentExchange3-1.6.4-0.1.0.2.jar
 
 Forge 9.11.1.964
