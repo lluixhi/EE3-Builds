@@ -1,3 +1,11 @@
+####EquivalentExchange3-1.7.2-0.2.0.8.jar
+
+Forge 10.12.1.1088
+Commit # 1545
+SHA: 06dced01b3df6caa3fa58fd6dc43e03be9bc7ea7
+
+More keybinding work, and a bugfix.
+
 ####EquivalentExchange3-1.7.2-0.2.0.7.jar
 
 Forge 10.12.1.1082
