@@ -1,3 +1,12 @@
+####EquivalentExchange3-1.7.2-0.2.0.9.jar
+
+Forge 10.12.1.1091
+Commit # 1547
+SHA: abde1fc8741a59f22e9f8b77fea1410ea4dcee14
+
+Finished keybinding listener, and beginning work on the ObjectHolder.
+Some renaming of Alchemical Fuel.
+
 ####EquivalentExchange3-1.7.2-0.2.0.8.jar
 
 Forge 10.12.1.1088
