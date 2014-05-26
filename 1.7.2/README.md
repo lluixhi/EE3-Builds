@@ -1,3 +1,13 @@
+####EquivalentExchange3-1.7.2-0.2.0.10.jar
+
+Forge 10.12.1.1097
+Commit # 1554
+SHA: e0718b48fe5f90f1a6d8ee64cec76fcd1ad83fa4
+
+Finished ObjectHolder, removed Hardcoding of Creative Tab and Alchemical Chest names.
+Adding the OreStack portion of DynEMC.
+Some gradle and mcmod.info changes.
+
 ####EquivalentExchange3-1.7.2-0.2.0.9.jar
 
 Forge 10.12.1.1091
